@@ -748,18 +748,6 @@ video {
   gap: 1.25rem;
 }
 
-.overflow-hidden {
-  overflow: hidden;
-}
-
-.overflow-x-hidden {
-  overflow-x: hidden;
-}
-
-.overflow-y-hidden {
-  overflow-y: hidden;
-}
-
 .rounded-2xl {
   border-radius: 1rem;
 }
