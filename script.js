@@ -38,7 +38,7 @@ var canvas =[
 
   var popularONpinterest = [
     {Image : "https://i.pinimg.com/236x/24/84/f6/2484f660ba02117b6521f9d8b9617832.jpg", name : "Dp for whatsapp"},
-    {Image : "https://i.pinimg.com/236x/49/46/16/49461699264a7475f5b2ef0bfb3620d8.jpg", name : "Selfie Posses"},
+    {Image : "https://i.pinimg.com/236x/49/46/16/49461699264a7475f5b2ef0bfb3620d8.jpg", name : "Selfie's Posses"},
     {Image : "https://i.pinimg.com/236x/28/8a/6b/288a6b85623c9e719a3c500c26adecee.jpg", name : "New/Old Posses"}, 
     {Image : "https://i.pinimg.com/236x/ef/1e/8a/ef1e8a4a967bafbb89d7f82d57e6713c.jpg", name : "Shahu Maharaj"}, 
     {Image : "https://i.pinimg.com/236x/9b/76/68/9b76684f09e47b8ac38139935e510fdd.jpg", name : "Feel The Nature"} 
